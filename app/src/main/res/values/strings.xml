@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">JetpackComposeNavigation</string>
+
+    <!-- Main -->
+    <string name="to_detail_screen">To Detail Screen</string>
+    <string name="secret">Secret</string>
 </resources>
